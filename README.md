@@ -4,4 +4,6 @@
 
 ### [Website](https://inertia.lighting/)
 
+### [Discord](https://discord.inertia.lighting/)
+
 ### [Privacy Policy](https://github.com/Inertia-Lighting/privacy-policy)
